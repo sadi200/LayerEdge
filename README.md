@@ -20,7 +20,7 @@
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Zlkcyber/LedgeBot.git
+    https://github.com/sadi200/LayerEdge.git
     cd LedgeBot
     ```
 
